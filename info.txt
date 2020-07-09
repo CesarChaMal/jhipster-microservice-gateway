@@ -1,0 +1,30 @@
+yo jhipster
+Microservice gateway
+Sprinh Webflux yes
+base name  gateway
+port 9090
+java package com.gateway
+jhipster registry
+jwt authentication
+SQL(H2, MySql, Postgresql, Mssql)
+production mysql
+development h2 in memory persistence
+Maven
+Extra tech
+Elastisearch, Kafka
+Framework for client Angular
+Bootswatch theme Cyborg
+Bootswatch variant navbar Dark
+Internationalization yes
+English native
+others Polish, Spanish
+Extra Cucumber, Protractor
+
+yo jhipster:entity admin
+jhipster entity admin --generate
+
+mklink /J c:\repo C:\Users\Cesar\.m2\repository
+rmdir c:\repo
+mvn -Dmaven.repo.local=c:\repo spring-boot:run
+./mvnw -Dmaven.repo.local=c:\repo
+./mvnw -U -Dmaven.repo.local=c:\repo

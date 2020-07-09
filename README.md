@@ -129,7 +129,7 @@ java -jar target/*.jar
 
 ```
 
-Then navigate to [http://localhost:9092](http://localhost:9092) in your browser.
+Then navigate to [http://localhost:9090](http://localhost:9090) in your browser.
 
 Refer to [Using JHipster in production][] for more details.
 

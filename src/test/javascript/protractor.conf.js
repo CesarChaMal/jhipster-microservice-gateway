@@ -19,7 +19,7 @@ exports.config = {
 
     directConnect: true,
 
-    baseUrl: 'http://localhost:9092/',
+    baseUrl: 'http://localhost:9090/',
 
     framework: 'mocha',
 
